@@ -165,7 +165,7 @@ No **Azure Boards → Sprints**:
 
 Cada grupo deverá realizar uma única entrega na plataforma Microsoft Teams, contendo:
 
-1.  **URL do Projeto no Azure DevOps:* No painel do seu projeto, copie a URL completa do navegador.
+1.  **URL do Projeto no Azure DevOps:** No painel do seu projeto, copie a URL completa do navegador.
 2.  **Print da Sprint Ativa no Azure Boards:** A captura de tela deve exibir o quadro da Sprint, mostrando as User Stories selecionadas e suas respectivas tarefas distribuídas nas colunas (Ex: *To Do*, *In Progress*, *Done*).
 3.  **Print de uma User Story Expandida:** Uma captura de tela que mostre claramente uma das User Stories dentro da Sprint com sua lista de tarefas técnicas associadas.
 
